@@ -32,3 +32,5 @@ The project uses JUnit Jupiter for tests. Run them via:
 ```bash
 mvn test
 ```
+
+Test TP4 Jenkins GitHub
