@@ -13,7 +13,7 @@ pipeline {
         
         stage('Build') {
             steps {
-                echo 'BUILD ROBOTCOMBAT TP8'
+                echo 'BRANCHE DEVELOP'
             }
         }
 
