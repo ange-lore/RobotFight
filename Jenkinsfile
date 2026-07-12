@@ -10,11 +10,13 @@ pipeline {
             }
         }
 
+        
         stage('Build') {
             steps {
-                echo 'Compilation du projet'
+                echo 'BUILD ROBOTCOMBAT TP8'
             }
         }
+
 
         stage('Test') {
             steps {
